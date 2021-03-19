@@ -1,0 +1,14 @@
+.footer_logo {
+  float: left;
+  padding: 0px 19px 0;
+}
+
+.footer_text {
+  display: inline-block;
+  color: #eee;
+}
+
+.footer_text p {
+  margin: 9px;
+}
+/*# sourceMappingURL=style.css.map */
