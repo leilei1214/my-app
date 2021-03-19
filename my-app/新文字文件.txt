@@ -1,0 +1,5 @@
+1.node.js¦w¸Ë
+2.npm install -g create-react-app
+3.create-react-app react-gh-pages
+4.npm install --save gh-pages
+npm install react-scripts --save
