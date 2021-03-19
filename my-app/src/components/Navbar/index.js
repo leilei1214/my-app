@@ -22,7 +22,7 @@ export default class Navbar extends Component {
                     />
                     <div className="nav-title">
 
-                        <Link to="/" >
+                        <Link to="./" >
                             <img src={logo} alt="logo" />
                         </Link>
                     </div>
@@ -78,7 +78,7 @@ export default class Navbar extends Component {
                             </li> */}
                             <li>
                                 <NavLink 
-                                    exact to="/"
+                                    exact to="./"
                                     onClick = { this.toggleMenu }
                                 >關於我們</NavLink>
                                 <ul>
@@ -93,7 +93,7 @@ export default class Navbar extends Component {
                             </li>
                             <li>
                                 <NavLink 
-                                    to="/about"
+                                    to="./about"
                                     onClick = { this.toggleMenu }
                                 >About</NavLink>
                                 <ul>

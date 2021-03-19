@@ -2,4 +2,11 @@
 2.npm install -g create-react-app
 3.create-react-app react-gh-pages
 4.npm install --save gh-pages
-npm install react-scripts --save
+5.npm install react-scripts --save
+6.npm run deploy
+7.git add .
+8.git commit -m ¡§Create a React app and publish it to GitHub Pages¡¨
+9.git push origin master
+10.https://leilei1214.github.io/my-app
+
+
